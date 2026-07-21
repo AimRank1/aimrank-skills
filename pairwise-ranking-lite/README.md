@@ -7,10 +7,10 @@ Rank anything in Claude by **pairwise comparison with honest uncertainty** — i
 ## Install (30 seconds)
 
 ```bash
-# personal (all projects)
-cp -r pairwise-ranking-lite ~/.claude/skills/
+git clone https://github.com/AimRank1/aimrank-skills.git
+cp -r aimrank-skills/pairwise-ranking-lite ~/.claude/skills/
 # or project-local
-cp -r pairwise-ranking-lite <your-repo>/.claude/skills/
+cp -r aimrank-skills/pairwise-ranking-lite <your-repo>/.claude/skills/
 ```
 
 Then in Claude: *"Rank these 8 features by which would cut support tickets most"* — the skill triggers automatically. No connectors, no API key, no account.
