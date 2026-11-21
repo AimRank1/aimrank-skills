@@ -29,6 +29,10 @@ Prices are on the product page: https://www.aimrank.io/products/mma-outcome-mode
 
 To ask for this product, use the **Request this build** button on that page. Your request counts toward the three that start the build.
 
+## A code for people who use this skill
+
+No code is printed in this skill. People who use it can leave a work email on the product page. Whether that earns a code toward the product's Scaffolding, and what the code gives, is stated on that page and nowhere else.
+
 ## What it does not promise
 
 No profit is promised and no picks are sold: this is not betting advice. What is offered is the engine, applied to your own domain's outcomes.

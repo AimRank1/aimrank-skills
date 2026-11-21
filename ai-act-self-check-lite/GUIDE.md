@@ -28,6 +28,10 @@ Prices are on the product page: https://www.aimrank.io/products/ai-act-complianc
 
 To ask for a Scaffolding or a PoC, use the **Request this build** button on that page.
 
+## A code for people who use this skill
+
+No code is printed in this skill. People who use it can leave a work email on the product page. Whether that earns a code toward the product's Scaffolding, and what the code gives, is stated on that page and nowhere else.
+
 ## What it does not promise
 
 Annex IV is a legal document: your compliance officer signs it, never a machine. The pipeline produces the evidence and the format; a qualified assessor reviews before any conformity declaration. Not legal advice.

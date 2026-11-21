@@ -23,6 +23,8 @@ A CSV with `date`, `store`, `SKU` and `units`; `promo` and `price` columns help 
 ## What you get
 
 - A P10/P50/P90 range per SKU/store and day, 14 days ahead by default
+- A separate range for the total over the horizon when you order for the whole period
+- For a product with no sales yet, a range borrowed from similar products, stated as such
 - A check of the range against your own last weeks, where the history allows
 - Calendar (incl. Lithuanian public holidays), promo and new-SKU adjustments called out
 - ⚠️ flags on wide-uncertainty cases
@@ -33,7 +35,7 @@ This skill forecasts from one CSV inside one conversation. Its range is a judgme
 
 ## The full product
 
-This skill is a teaser for AimRank's **Demand Forecasting (LT calendar)**, which on 21 November 2026 is listed on its product page as a blueprint. [GUIDE.md](GUIDE.md) says what the full product adds, what you get at each step of buying it, and where the prices are.
+This skill is a teaser for AimRank's **Demand Forecasting (LT calendar)**, which on 21 November 2026 is listed on its product page as a blueprint. [GUIDE.md](GUIDE.md) says what the full product adds, what you get at each step of buying it, and where the prices are. People who use this skill can leave a work email on the product page; the page says whether that earns a code toward the product's Scaffolding.
 
 Product page: https://www.aimrank.io/products/demand-forecasting/
 

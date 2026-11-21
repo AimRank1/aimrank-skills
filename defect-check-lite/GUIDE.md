@@ -29,6 +29,10 @@ Prices are on the product page: https://www.aimrank.io/products/industrial-cv-qc
 
 To ask for this product, use the **Request this build** button on that page. Your request counts toward the three that start the build.
 
+## A code for people who use this skill
+
+No code is printed in this skill. People who use it can leave a work email on the product page. Whether that earns a code toward the product's Scaffolding, and what the code gives, is stated on that page and nowhere else.
+
 ## What it does not promise
 
 A defect that is invisible from the camera's angle stays invisible: optics and lighting are half the project and come first. Both escapes and false rejects are measured, not assumed.

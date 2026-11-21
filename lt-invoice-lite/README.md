@@ -30,7 +30,7 @@ This skill reads one invoice at a time inside one conversation. It keeps nothing
 
 ## The full product
 
-This skill is a teaser for AimRank's **Document Intelligence - Lithuanian**, which on 21 November 2026 is a reference build: built and measured on AimRank's own reference data, which does not mean a system running at a client. [GUIDE.md](GUIDE.md) says what the full product adds, what you get at each step of buying it, and where the prices are.
+This skill is a teaser for AimRank's **Document Intelligence - Lithuanian**, which on 21 November 2026 is a reference build: built and measured on AimRank's own reference data, which does not mean a system running at a client. [GUIDE.md](GUIDE.md) says what the full product adds, what you get at each step of buying it, and where the prices are. People who use this skill can leave a work email on the product page; the page says whether that earns a code toward the product's Scaffolding.
 
 Product page: https://www.aimrank.io/products/document-intelligence-lt/
 

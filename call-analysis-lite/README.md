@@ -28,7 +28,7 @@ This skill reads one transcript inside one conversation. It does not transcribe 
 
 ## The full product
 
-This skill is a teaser for AimRank's **Sales Call Analysis (LT)**, which on 21 November 2026 is a blueprint: designed and documented, not built yet. [GUIDE.md](GUIDE.md) says what the full product adds, what you get at each step of buying it, and where the prices are.
+This skill is a teaser for AimRank's **Sales Call Analysis (LT)**, which on 21 November 2026 is a blueprint: designed and documented, not built yet. [GUIDE.md](GUIDE.md) says what the full product adds, what you get at each step of buying it, and where the prices are. People who use this skill can leave a work email on the product page; the page says whether that earns a code toward the product's Scaffolding.
 
 Product page: https://www.aimrank.io/products/sales-conversation-analysis-lt/
 

@@ -6,16 +6,18 @@ This guide ships with the free skill `aml-triage-lite`. It says what the full pr
 
 ## Where the free skill stops
 
-This skill ranks the alerts in one file inside one conversation. It trains no model, its score is a ranking and not a calibrated probability, it sees no account history or counterparty network beyond the file, and it keeps no audit trail. The disposition and any report to the authorities stay with the analyst.
+This skill orders the payments in one file inside one conversation. It trains no model, its score is a ranking and not a probability, it sees only that file, and it keeps no audit trail. It is not transaction monitoring for money laundering and not sanctions screening, and it decides, blocks and reports nothing.
 
 ## What the full product is designed to add
 
-- A model trained and calibrated on your own confirmed cases, with anomaly detection for new patterns and counterparty-graph features
-- Reason codes per alert, in analyst language, that pre-fill the report narrative
-- A shadow run beside your existing rules before any rule is switched off, with compliance sign-off
-- Drift monitoring, with analyst dispositions feeding retraining
-- A hash-chained audit trail in which every decision can be replayed
-- Deployment in your own environment, and MCP tools for investigators' agents (the disposition stays human)
+- A model trained on the institution's own history that returns a probability calibrated on held-out data and checked inside the alert queue
+- Reasons computed from the model itself, not written after the fact
+- The alert threshold shown as a cost table, so the business chooses it
+- A frozen pass/fail test the build must clear before it ships: it has to beat a rules baseline
+- A fairness check on who lands in the queue, and drift monitoring
+- A tamper-evident audit log
+- An MCP endpoint so your own agents can call it
+- Scoped per engagement on your data. It ranks for a human analyst and blocks or files nothing
 
 ## What you get at each step
 
@@ -29,9 +31,13 @@ Prices are on the product page: https://www.aimrank.io/products/aml-fraud-detect
 
 To ask for this product, use the **Request this build** button on that page.
 
+## A code for people who use this skill
+
+No code is printed in this skill. People who use it can leave a work email on the product page. Whether that earns a code toward the product's Scaffolding, and what the code gives, is stated on that page and nowhere else.
+
 ## What it does not promise
 
-The model cannot add data that is not there: without device or counterparty data, detection quality is lower, and that is said before a contract. The report decision is never automated: the model ranks and explains, the analyst decides.
+It blocks nothing, freezes nothing and files nothing: a person decides every alert. It is not an anti-money-laundering system, and nothing in it says that a system meets the EU AI Act, anti-money-laundering rules or a supervisor's expectations.
 
 ---
 

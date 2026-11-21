@@ -29,6 +29,10 @@ Prices are on the product page: https://www.aimrank.io/products/demand-forecasti
 
 To ask for this product, use the **Request this build** button on that page.
 
+## A code for people who use this skill
+
+No code is printed in this skill. People who use it can leave a work email on the product page. Whether that earns a code toward the product's Scaffolding, and what the code gives, is stated on that page and nowhere else.
+
 ## What it does not promise
 
 New SKUs and promotion spikes are the hard cases: they get wider ranges, not confident numbers, and your planner keeps the final say on every order. With under two full years of history, expect wider ranges in the first year.

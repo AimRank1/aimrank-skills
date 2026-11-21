@@ -29,6 +29,10 @@ Prices are on the product page: https://www.aimrank.io/products/logistics-eta/
 
 To ask for this product, use the **Request this build** button on that page. Your request counts toward the three that start the build.
 
+## A code for people who use this skill
+
+No code is printed in this skill. People who use it can leave a work email on the product page. Whether that earns a code toward the product's Scaffolding, and what the code gives, is stated on that page and nowhere else.
+
 ## What it does not promise
 
 A range, not a single hour. Customs queues are modelled, but a surprise inspection is still a surprise: the aim is to tell the customer earlier, not to pretend it cannot happen.

@@ -29,11 +29,9 @@ Prices are on the product page: https://www.aimrank.io/products/churn-predictor/
 
 To ask for a Scaffolding or a PoC, use the **Request this build** button on that page.
 
-## Code
+## A code for people who use this skill
 
-`CODE-PLACEHOLDER: no code has been issued for this skill yet. Do not use, guess or invent one.`
-
-This skill is meant to carry one code for the product's Scaffolding. What a code gives, and whether it still applies, is defined on the product page and nowhere else.
+No code is printed in this skill. People who use it can leave a work email on the product page. Whether that earns a code toward the product's Scaffolding, and what the code gives, is stated on that page and nowhere else.
 
 ## What it does not promise
 

@@ -29,7 +29,7 @@ This skill ranks the appointments in one file inside one conversation. The rank 
 
 ## The full product
 
-This skill is a teaser for AimRank's **No-Show Prediction + Safe Overbooking**, which on 21 November 2026 is built, with one of its own checks not yet cleared (the product page says which). [GUIDE.md](GUIDE.md) says what the full product adds, what you get at each step of buying it, and where the prices are.
+This skill is a teaser for AimRank's **No-Show Prediction + Safe Overbooking**, which on 21 November 2026 is built, with one of its own checks not yet cleared (the product page says which). [GUIDE.md](GUIDE.md) says what the full product adds, what you get at each step of buying it, and where the prices are. People who use this skill can leave a work email on the product page; the page says whether that earns a code toward the product's Scaffolding.
 
 Product page: https://www.aimrank.io/products/no-show-prediction/
 

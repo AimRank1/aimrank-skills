@@ -29,6 +29,10 @@ Prices are on the product page: https://www.aimrank.io/products/no-show-predicti
 
 To ask for a Scaffolding or a PoC, use the **Request this build** button on that page.
 
+## A code for people who use this skill
+
+No code is printed in this skill. People who use it can leave a work email on the product page. Whether that earns a code toward the product's Scaffolding, and what the code gives, is stated on that page and nowhere else.
+
 ## What it does not promise
 
 Overbooking is a risk trade, not a free win: the cap bounds your exposure and does not promise zero turned-away patients. The reference figures on the product page come from a public dataset, not from your practice.

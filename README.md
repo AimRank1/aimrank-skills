@@ -23,7 +23,7 @@ The status column is as of 21 November 2026; the product page shows the current 
 | [`lt-invoice-lite`](lt-invoice-lite/) | Extract Lithuanian VAT invoices with a source quote and a confidence on every field. | [#01 Document Intelligence - Lithuanian](https://www.aimrank.io/products/document-intelligence-lt/) · reference build |
 | [`growth-model-lite`](growth-model-lite/) | Turn an activity log into user states, retention rates and a ranked lever table. | [#02 Calibrated Churn Predictor](https://www.aimrank.io/products/churn-predictor/) · reference build |
 | [`support-triage-lite`](support-triage-lite/) | Triage Lithuanian support tickets by intent and urgency and draft a first reply. | [#04 Lithuanian Support Triage + Draft Replies](https://www.aimrank.io/products/support-triage-lt/) · blueprint |
-| [`aml-triage-lite`](aml-triage-lite/) | Rank flagged transactions with a reason and a confidence per alert. | [#05 AML / Fraud Detection](https://www.aimrank.io/products/aml-fraud-detection/) · listed as a blueprint |
+| [`aml-triage-lite`](aml-triage-lite/) | Put a fraud review queue in order, with a reason and a confidence per payment. | [#05 AML / Fraud Detection](https://www.aimrank.io/products/aml-fraud-detection/) · listed as a blueprint |
 | [`brand-content-lite`](brand-content-lite/) | Draft on-brand marketing copy with a claims self-check. | [#06 Brand-Voice Content + Compliance Filter](https://www.aimrank.io/products/content-generation/) · blueprint |
 | [`segmentation-lite`](segmentation-lite/) | Propose customer segments with a first bias read on each. | [#07 Segmentation with Bias Auditing](https://www.aimrank.io/products/segmentation-bias-audit/) · blueprint |
 | [`demand-forecast-lite`](demand-forecast-lite/) | Forecast demand per SKU as a P10/P50/P90 range, with the Lithuanian calendar. | [#08 Demand Forecasting (LT calendar)](https://www.aimrank.io/products/demand-forecasting/) · listed as a blueprint |
@@ -64,6 +64,8 @@ What a single conversation cannot do is persist anything, collect judgments from
 When you hit that boundary with `pairwise-ranking-lite`, [AimRank](https://app.aimrank.io) is the production version: free tier, no card.
 
 The product skills hold the same line, with one difference: most of their full products are blueprints, and each skill and its `GUIDE.md` says so. A skill mentions its full product at most once in a conversation, and only when you ask for something the skill says it does not do. There is no sales line at the end of a run.
+
+No skill contains a code. People who use a skill can leave a work email on its product page, and that page says whether doing so earns a code toward the product's Scaffolding.
 
 ## License
 

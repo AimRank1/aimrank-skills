@@ -28,6 +28,10 @@ Prices are on the product page: https://www.aimrank.io/products/segmentation-bia
 
 To ask for this product, use the **Request this build** button on that page. Your request counts toward the three that start the build.
 
+## A code for people who use this skill
+
+No code is printed in this skill. People who use it can leave a work email on the product page. Whether that earns a code toward the product's Scaffolding, and what the code gives, is stated on that page and nowhere else.
+
 ## What it does not promise
 
 A bias audit is evidence, not absolution: it tests what is measurable in your data, and if the data cannot support a fairness claim the report says so.
